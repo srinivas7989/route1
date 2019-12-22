@@ -1,0 +1,28 @@
+#ip1 {
+    border-radius: 25px;
+    border: 2px solid #808080;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;    
+}
+/* card */
+.collapse-content .fa.fa-heart:hover {
+  color: #f44336 !important;
+}
+.collapse-content .fa.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+
+/* map */
+
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+  
+/* faviorite */
+.heart {
+  font-size: 25px;
+	color:red;
+}
